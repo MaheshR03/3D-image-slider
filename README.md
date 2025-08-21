@@ -4,7 +4,7 @@
 
 ## 🚀 LIVE DEMO
 
-https://maheshr03.github.io/3D-image-slider/
+[Check it out](https://maheshr03.github.io/3D-image-slider/)
 
 ## 📷 SCREENSHOTS
 
